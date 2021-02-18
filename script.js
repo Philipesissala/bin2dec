@@ -2,7 +2,7 @@ const $input = document.querySelector("#input");
 const $output = document.querySelector("#output");
 const $btn = document.querySelector("Button");
 
-const converter = {
+const convert = {
     validate() {
         const values = $input.value.split("");
         const find = values.find(item => {
@@ -13,7 +13,7 @@ const converter = {
             $input.value = "";
             $output.value = "";
         } else
-            converter.operation($input.value);
+            convert.operation($input.value);
     },
     operation(value) {
         let binary = value.split("").reverse();
@@ -28,5 +28,5 @@ const converter = {
 }
 $btn.addEventListener("click", (event) => {
     event.preventDefault();
-    converter.validate();
+    convert.validate();
 });
