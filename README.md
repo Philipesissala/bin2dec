@@ -11,5 +11,12 @@ O Bin2Dec permite que o usuário insira sequências de até 8 dígitos binários
 
 Esse desafio exige que o desenvolvedor que o implementa siga estas restrições:
 
-- As matrizes não podem ser usadas contêm os dígitos binários inseridos pelo usuário
+- As matrizes não podem ser usadas para conter os dígitos binários inseridos pelo usuário
 - A determinação do equivalente decimal de um dígito binário específico na sequência deve ser calculada usando uma única função matemática, por exemplo, o logaritmo natural. Cabe a você descobrir qual função usar.
+
+# Ações de usuários
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <del>O usuário pode inserir até 8 dígitos binários em um campo de entrada</del></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <del>O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido</del></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <del>O usuário visualiza os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário que foi inserido</del></li>
+</ul>
