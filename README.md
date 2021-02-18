@@ -4,7 +4,6 @@
 
 <ul>
 <li><g-emoji class="g-emoji" alias="notebook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png"><img class="emoji" alt="notebook" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png"></g-emoji> <a href="#-Sobre">Sobre</a></li>
-<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> <a href="#-Tecnologias-utilizadas">Tecnologias utilizadas</a></li>
 <li><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png"><img class="emoji" alt="package" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png"></g-emoji> <a href="#-Como-baixar-o-projeto">Como baixar o projeto</a></li>
 <li><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png"><img class="emoji" alt="handshake" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png"></g-emoji> <a href="#-Considera%C3%A7%C3%B5es">Considerações</a></li>
 </ul>
