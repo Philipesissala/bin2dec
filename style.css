@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline-style: none;
+}
+
+body {
+    background: #282a36;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 3vh auto;
+    line-height: 30px;
+}
+
+h1 {
+    color: white;
+}
+
+.input-group label {
+    color: white;
+}
+
+.input-group input {
+    width: 230px;
+    height: 30px;
+    border: 2px solid #f0f2f5;
+    background-color: #c5c9e2;
+    
+}
+
+.input-group #entrada {
+    width: 145px;
+}
+
+button {
+    width: 80px;
+    height: 35px;
+    border: 2px solid #f0f2f5;
+    background-color: #c5c9e2;
+}
